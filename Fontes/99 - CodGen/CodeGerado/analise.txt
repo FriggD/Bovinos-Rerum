@@ -1,0 +1,23 @@
+﻿A classe TBoolean é um tipo porém não possui alias. O campo alias é obrigatório nos tipos.
+A classe TDate é um tipo porém não possui alias. O campo alias é obrigatório nos tipos.
+A classe TDateTime é um tipo porém não possui alias. O campo alias é obrigatório nos tipos.
+A classe TDouble é um tipo porém não possui alias. O campo alias é obrigatório nos tipos.
+A classe TGeographyPoint é um tipo porém não possui alias. O campo alias é obrigatório nos tipos.
+A classe TInt é um tipo porém não possui alias. O campo alias é obrigatório nos tipos.
+A classe TLong é um tipo porém não possui alias. O campo alias é obrigatório nos tipos.
+A classe TString é um tipo porém não possui alias. O campo alias é obrigatório nos tipos.
+Os tipos obrigatórios TFloat não foram definidos, por favor importe-os do modelo base
+A classe RPOTransaction é um evento porém não possui a super-classe definida para RTEvent
+A classe RPODomain é um evento porém não possui a super-classe definida para RTEvent
+A classe TBoolean é um evento porém não possui a super-classe definida para RTEvent
+A classe TDate é um evento porém não possui a super-classe definida para RTEvent
+A classe TDateTime é um evento porém não possui a super-classe definida para RTEvent
+A classe TDouble é um evento porém não possui a super-classe definida para RTEvent
+A classe TGeographyPoint é um evento porém não possui a super-classe definida para RTEvent
+A classe TInt é um evento porém não possui a super-classe definida para RTEvent
+A classe TLong é um evento porém não possui a super-classe definida para RTEvent
+A classe TString é um evento porém não possui a super-classe definida para RTEvent
+A classe Animal é um evento porém não possui a super-classe definida para RTEvent
+A classe RPOObject é um evento porém não possui a super-classe definida para RTEvent
+Atributo data_nasc da classe Animal é do tipo TData porém esse tipo não existe.
+Atributo retornoConsultaLista da classe ListarAnimais é do tipo RTTList porém esse tipo não existe.

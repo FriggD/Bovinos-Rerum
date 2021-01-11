@@ -1,0 +1,11 @@
+C:\Users\gmdia\Desktop\Rerum\CRUD_Bovino\Fontes\01 - Negocios\Bovinos\bin\Debug\Bovinos.dll
+C:\Users\gmdia\Desktop\Rerum\CRUD_Bovino\Fontes\01 - Negocios\Bovinos\bin\Debug\Bovinos.pdb
+C:\Users\gmdia\Desktop\Rerum\CRUD_Bovino\Fontes\01 - Negocios\Bovinos\bin\Debug\IBM.Data.Informix.dll
+C:\Users\gmdia\Desktop\Rerum\CRUD_Bovino\Fontes\01 - Negocios\Bovinos\bin\Debug\Microsoft.Data.Odbc.dll
+C:\Users\gmdia\Desktop\Rerum\CRUD_Bovino\Fontes\01 - Negocios\Bovinos\bin\Debug\Rerum.Integra.InfraEstrutura.dll
+C:\Users\gmdia\Desktop\Rerum\CRUD_Bovino\Fontes\01 - Negocios\Bovinos\bin\Debug\Rerum.Metric.dll
+C:\Users\gmdia\Desktop\Rerum\CRUD_Bovino\Fontes\01 - Negocios\Bovinos\bin\Debug\RerumCS.dll
+C:\Users\gmdia\Desktop\Rerum\CRUD_Bovino\Fontes\01 - Negocios\Bovinos\bin\Debug\System.Data.SQLite.dll
+C:\Users\gmdia\Desktop\Rerum\CRUD_Bovino\Fontes\01 - Negocios\Bovinos\bin\Debug\Npgsql.dll
+C:\Users\gmdia\Desktop\Rerum\CRUD_Bovino\Fontes\01 - Negocios\Bovinos\obj\Debug\Bovinos.dll
+C:\Users\gmdia\Desktop\Rerum\CRUD_Bovino\Fontes\01 - Negocios\Bovinos\obj\Debug\Bovinos.pdb

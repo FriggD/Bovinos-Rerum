@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00 - Configuracoes", "00 - Configuracoes", "{C9E8C780-FAB7-4751-A1B0-8B1EA138D42B}"
+	ProjectSection(SolutionItems) = preProject
+		..\00 - Configuracoes\Application.xml = ..\00 - Configuracoes\Application.xml
+		..\00 - Configuracoes\FilteredClass.ini = ..\00 - Configuracoes\FilteredClass.ini
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - Negocios", "01 - Negocios", "{B35F2EAD-99E8-4F99-8E3F-9FCF3F8A7915}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 - Apresentacao", "03 - Apresentacao", "{1C8F5651-A460-4C1E-B377-7C5074B11EBB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "49 - Testes", "49 - Testes", "{526C1C4C-0298-4843-AE96-7D7272FD6147}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bovinos", "..\01 - Negocios\Bovinos\Bovinos.csproj", "{B0732C0E-3D01-4B89-ADDC-0C3AF6D16644}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteBovino", "..\49 - Testes\TesteBovino\TesteBovino.csproj", "{998F3E50-AE15-492F-B37B-1FE983DDE348}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Forms", "Forms", "{6CAB310A-090A-4E22-AA30-6A6E3298D78C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ASP.NET", "ASP.NET", "{E98B27CB-4871-4A5D-9372-7868AB35B822}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{CEED103E-A2C7-429B-A579-6AB5D1B0AEBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0732C0E-3D01-4B89-ADDC-0C3AF6D16644}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0732C0E-3D01-4B89-ADDC-0C3AF6D16644}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0732C0E-3D01-4B89-ADDC-0C3AF6D16644}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0732C0E-3D01-4B89-ADDC-0C3AF6D16644}.Release|Any CPU.Build.0 = Release|Any CPU
+		{998F3E50-AE15-492F-B37B-1FE983DDE348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{998F3E50-AE15-492F-B37B-1FE983DDE348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{998F3E50-AE15-492F-B37B-1FE983DDE348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{998F3E50-AE15-492F-B37B-1FE983DDE348}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEED103E-A2C7-429B-A579-6AB5D1B0AEBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEED103E-A2C7-429B-A579-6AB5D1B0AEBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEED103E-A2C7-429B-A579-6AB5D1B0AEBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEED103E-A2C7-429B-A579-6AB5D1B0AEBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B0732C0E-3D01-4B89-ADDC-0C3AF6D16644} = {B35F2EAD-99E8-4F99-8E3F-9FCF3F8A7915}
+		{998F3E50-AE15-492F-B37B-1FE983DDE348} = {526C1C4C-0298-4843-AE96-7D7272FD6147}
+		{6CAB310A-090A-4E22-AA30-6A6E3298D78C} = {1C8F5651-A460-4C1E-B377-7C5074B11EBB}
+		{E98B27CB-4871-4A5D-9372-7868AB35B822} = {1C8F5651-A460-4C1E-B377-7C5074B11EBB}
+		{CEED103E-A2C7-429B-A579-6AB5D1B0AEBC} = {6CAB310A-090A-4E22-AA30-6A6E3298D78C}
+	EndGlobalSection
+EndGlobal

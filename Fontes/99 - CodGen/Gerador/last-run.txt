@@ -1,0 +1,2 @@
+C:\Users\gmdia\Desktop\Rerum\CRUD_Bovino\Documentos\Tecnicos\Analise\UML\CRUD_Bovino.eap
+C:\Users\gmdia\Desktop\Rerum\CRUD_Bovino\Fontes\99 - CodGen\CodeGerado

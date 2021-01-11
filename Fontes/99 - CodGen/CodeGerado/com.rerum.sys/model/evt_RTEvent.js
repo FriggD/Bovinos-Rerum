@@ -1,0 +1,21 @@
+{
+  "name": "RTEvent",
+  "base": "RPOObject",
+  "tableName": "",
+  "transactionName": "",
+  "javaimport": [],
+  "callBaseWithFalse": true,
+  "javapkg": "com.rerum.sys",
+  "cspkg": "com.rerum.sys",
+  "csimport": [],
+  "author": "José Mauro da Silva Sandy - Rerum",
+  "created": "2015-12-23T11:45:57-02:00",
+  "modified": "2015-12-23T11:46:04-02:00",
+  "attributes": [],
+  "associations": [],
+  "aggregations": [],
+  "transitions": [],
+  "events": [],
+  "states": [],
+  "estereotipo": "event"
+}

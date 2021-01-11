@@ -1,0 +1,8 @@
+C:\Users\gmdia\Desktop\Rerum\CRUD_Bovino\Fontes\Bovinos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\gmdia\Desktop\Rerum\CRUD_Bovino\Fontes\Bovinos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\gmdia\Desktop\Rerum\CRUD_Bovino\Fontes\Bovinos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\gmdia\Desktop\Rerum\CRUD_Bovino\Fontes\Bovinos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TelaIndex.resources
+C:\Users\gmdia\Desktop\Rerum\CRUD_Bovino\Fontes\Bovinos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\gmdia\Desktop\Rerum\CRUD_Bovino\Fontes\Bovinos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\gmdia\Desktop\Rerum\CRUD_Bovino\Fontes\Bovinos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\gmdia\Desktop\Rerum\CRUD_Bovino\Fontes\Bovinos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

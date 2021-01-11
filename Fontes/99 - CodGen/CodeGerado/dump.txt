@@ -1,0 +1,83 @@
+﻿::
+    ::RerumCS
+        ::RerumCS
+            ::com.rerum.sys
+                   ::RTEvent(type Class)
+                       ::Connectors
+                       ::Other Connectors
+                        Atributos
+            ::com.rerum.trn
+                   ::RPOTransaction(type Class)
+                       ::Connectors
+                       ::Other Connectors
+                        Atributos
+            ::com.rerum.types
+                   ::RPODomain(type Class)
+                        Atributos
+                   ::TBoolean(type Class)
+                        Atributos
+                   ::TDate(type Class)
+                        Atributos
+                   ::TDateTime(type Class)
+                        Atributos
+                   ::TDouble(type Class)
+                        Atributos
+                   ::TGeographyPoint(type Class)
+                        Atributos
+                   ::TInt(type Class)
+                        Atributos
+                   ::TLong(type Class)
+                        Atributos
+                   ::TString(type Class)
+                        Atributos
+    ::ArquiteturaBovinos
+        ::Class Model
+            ::Bovinos
+                   ::Animal(type Class)
+                       ::Connectors
+                        inherits from RPOTransaction
+                       ::Other Connectors
+                        Atributos
+                   ::Animal(type Class)
+                        Atributos
+                        id_animal:TString
+                        nome:TString
+                        data_nasc:TData
+                        raça:TString
+                        fazenda:TString
+                        sexo:TString
+                        peso:TInt
+                   ::CadastraAnimal(type Class)
+                       ::Connectors
+                        inherits from RTEvent
+                       ::Other Connectors
+                        Atributos
+                        animalCadastro:Animal
+                   ::ConsultarAnimal(type Class)
+                       ::Connectors
+                        inherits from RTEvent
+                       ::Other Connectors
+                        Atributos
+                        id_animal:TString
+                        retornoConsultaAnimal:Animal
+                   ::EditarAnimal(type Class)
+                       ::Connectors
+                        inherits from RTEvent
+                       ::Other Connectors
+                        Atributos
+                        animalEditar:Animal
+                   ::ListarAnimais(type Class)
+                       ::Connectors
+                        inherits from RTEvent
+                       ::Other Connectors
+                        Atributos
+                        retornoConsultaLista:RTTList
+                   ::RemoverAnimal(type Class)
+                       ::Connectors
+                        inherits from RTEvent
+                       ::Other Connectors
+                        Atributos
+                        cod_objeto:TString
+                ::application.bos
+                ::application.evt
+                ::application.trn

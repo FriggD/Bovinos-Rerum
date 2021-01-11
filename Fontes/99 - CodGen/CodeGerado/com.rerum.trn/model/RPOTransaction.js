@@ -1,0 +1,21 @@
+{
+  "name": "RPOTransaction",
+  "base": "RPOObject",
+  "tableName": "",
+  "transactionName": "",
+  "javaimport": [],
+  "callBaseWithFalse": true,
+  "javapkg": "com.rerum.trn",
+  "cspkg": "com.rerum.trn",
+  "csimport": [],
+  "author": "José Mauro da Silva Sandy - Rerum",
+  "created": "2015-12-23T11:46:37-02:00",
+  "modified": "2015-12-23T11:46:47-02:00",
+  "attributes": [],
+  "associations": [],
+  "aggregations": [],
+  "transitions": [],
+  "events": [],
+  "states": [],
+  "estereotipo": "Transaction"
+}

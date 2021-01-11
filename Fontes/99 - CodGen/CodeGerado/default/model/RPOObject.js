@@ -1,0 +1,21 @@
+{
+  "name": "RPOObject",
+  "base": "RPOObject",
+  "tableName": null,
+  "transactionName": null,
+  "javaimport": [],
+  "callBaseWithFalse": true,
+  "javapkg": null,
+  "cspkg": null,
+  "csimport": [],
+  "author": null,
+  "created": "0001-01-01T00:00:00-02:00",
+  "modified": "0001-01-01T00:00:00-02:00",
+  "attributes": [],
+  "associations": [],
+  "aggregations": [],
+  "transitions": [],
+  "events": [],
+  "states": [],
+  "estereotipo": null
+}
